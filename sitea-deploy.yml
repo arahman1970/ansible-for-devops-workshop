@@ -1,3 +1,4 @@
+
 - name: Deploy site web infrastructure
   hosts: sitea
   become: yes
